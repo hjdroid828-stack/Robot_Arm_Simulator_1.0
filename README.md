@@ -24,6 +24,7 @@ A Python-based 2-DOF Robot Arm Simulator with GUI, Forward/Inverse Kinematics, a
 - visualization.py
 
 ## Screenshot
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e8e9f98-5539-4c4e-8074-ad9807348642" />
 
 <img width="1257" height="867" alt="스크린샷 2026-07-07 오전 12 23 50" src="https://github.com/user-attachments/assets/e7978a3b-5a37-41fd-99ee-f4d9e1ceb67a" />
 
